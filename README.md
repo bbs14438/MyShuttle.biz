@@ -1,2 +1,0 @@
-# MyShuttle
-在2014年的Visual Studio and Azure Connect()在线发布会上，微软使用了一套名为 MyShuttle.biz的样例程序来展示Visual Studio 2015和Microsoft Azure所提供的DevOps能力，这套样例的源代码也被分享出来。其中使用了众多的技术来全面展示微软开发工具和云计算平台所提供的跨平台开发和DevOps能力。
